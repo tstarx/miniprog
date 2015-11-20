@@ -1,0 +1,2 @@
+# miniprog
+Usual small program
